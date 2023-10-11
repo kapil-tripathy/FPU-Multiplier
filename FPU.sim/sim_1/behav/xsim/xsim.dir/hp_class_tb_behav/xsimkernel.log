@@ -1,0 +1,4 @@
+Running: xsim.dir/hp_class_tb_behav/xsimk.exe -simmode gui -wdb hp_class_tb_behav.wdb -simrunnum 0 -socket 58355
+Design successfully loaded
+Design Loading Memory Usage: 7928 KB (Peak: 7928 KB)
+Design Loading CPU Usage: 0 ms
